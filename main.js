@@ -30,7 +30,7 @@ function gotPoses(result)
 }
 
 function preload() {
-    clown_nose = LoadImage('https://i.postimg.cc/7ZBcjDqp/clownnose.png');
+    clown_nose = loadImage('https://i.postimg.cc/7ZBcjDqp/clownnose.png');
     
 }
 function draw() {
